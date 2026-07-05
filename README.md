@@ -35,6 +35,7 @@ python task4_rps.py
 Tech Stack
 Python 3
 
-About
+About:
 These tasks were completed as part of the internship requirements to demonstrate core Python programming skills including functions, loops, conditionals, user input handling, and basic data structures.
+
 Internship by: CodSoft
